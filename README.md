@@ -20,9 +20,6 @@ This folder contains a Power BI dashboard (`.pbix` file) visualizing airline p
 | **Operational Impact** | Delays vs satisfaction, on-time performance |
 | **Travel Class Comparison** | Insights across Economy, Business, and First |
 | **Additional Pages** | Derived metrics, filters, or drill-down views |
-| **ReadMe Page** *(optional)* | Instructions and navigation tips for end users |
-
-(Pro Tip: Include a “README” or instruction page as the first page inside the PBIX file to help users navigate; updating manually may be required with changes.) :contentReference[oaicite:1]{index=1}
 
 ---
 
@@ -31,7 +28,6 @@ This folder contains a Power BI dashboard (`.pbix` file) visualizing airline p
 - **Interactive filters**, slicers & tooltip‑enabled visuals
 - Consistent **theme and color palette** for clean UX
 - Contextual **text boxes** guiding users on how to interact
-- Responsive design optimized for report viewers and publication platforms :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -44,13 +40,4 @@ This folder contains a Power BI dashboard (`.pbix` file) visualizing airline p
 
 ---
 
-## 🛠️ Customization & Communication
-
-- Stakeholders can easily **navigate between pages** for specific domains of interest.
-- Tooltips and embedded text boxes **explain key visuals and filters contextually**.
-- Maintain or adapt your **design theme** using reference patterns from well‑designed dashboards. :contentReference[oaicite:3]{index=3}
-
----
-
-## 🔧 Recommended Repository Setup
 
