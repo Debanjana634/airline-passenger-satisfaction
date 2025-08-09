@@ -41,3 +41,46 @@ This folder contains a Power BI dashboard (`.pbix` file) visualizing airline p
 ---
 
 
+
+
+✈️ Airline Passenger Satisfaction – Machine Learning Analysis
+📌 Project Overview
+This project analyses airline passenger satisfaction using Python and machine learning techniques.
+The objective is to explore the dataset, identify key factors influencing satisfaction, and develop predictive models that classify passengers as Satisfied or Neutral/Unsatisfied.
+
+🛠️ Steps Followed
+1. Data Import & Inspection
+Loaded dataset with Pandas
+
+Checked shape, column names, missing values, and duplicates
+
+2. Data Cleaning
+Imputed missing values in Arrival Delay in Minutes using mean
+
+Removed duplicate records
+
+Ensured proper data types
+
+3. Exploratory Data Analysis (EDA)
+Visualised satisfaction distribution by travel type, age, and service ratings
+
+Used Seaborn & Matplotlib for insights
+
+4. Feature Engineering & Preprocessing
+Label encoded categorical variables
+
+Standardised numerical features with StandardScaler
+
+5. Model Development
+Implemented and trained ML Models
+
+6. Model Evaluation
+Used accuracy score, classification report, and confusion matrix
+
+Compared model performance to select the most effective
+
+
+
+
+
+
